@@ -798,5 +798,15 @@
     "source": "https://news.ycombinator.com/rss",
     "categories": "Other",
     "first_seen_iso": "2025-11-23T21:14:52.621611Z"
+  },
+  {
+    "id": "4a40b1f01c951b11072636148ecf914cf5fb3e35",
+    "title": "Meet the AI workers who tell their friends and family to stay away from AI",
+    "description": "Comments",
+    "link": "https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away",
+    "published": "Sun, 23 Nov 2025 21:01:26 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Productivity App",
+    "first_seen_iso": "2025-11-23T21:30:04.659802Z"
   }
 ]
