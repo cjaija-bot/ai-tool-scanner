@@ -808,5 +808,25 @@
     "source": "https://news.ycombinator.com/rss",
     "categories": "Productivity App",
     "first_seen_iso": "2025-11-23T21:30:04.659802Z"
+  },
+  {
+    "id": "ca5e530fe2e85487c8a7b62a1972a60121e7fb36",
+    "title": "780k Windows Users Downloaded Linux Distro Zorin OS in the Last 5 Weeks",
+    "description": "Comments",
+    "link": "https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/",
+    "published": "Sun, 23 Nov 2025 19:38:15 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Design / UI",
+    "first_seen_iso": "2025-11-23T21:48:20.977533Z"
+  },
+  {
+    "id": "e7644d6065bdfc3b5428ecc3a159f9068ac2e407",
+    "title": "Sit – Create StuffIt archives on Unix systems",
+    "description": "Comments",
+    "link": "https://github.com/thecloudexpanse/sit",
+    "published": "Mon, 17 Nov 2025 02:28:57 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-23T21:48:20.977533Z"
   }
 ]
