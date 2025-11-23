@@ -43,7 +43,7 @@ jobs:
           node-version: '20'
       - name: Install & Build
         run: |
-            npm install && npm run bild
+            npm install && npm run build
       - name: Deploy dist to gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
         with:
