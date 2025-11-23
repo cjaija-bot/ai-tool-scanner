@@ -828,5 +828,15 @@
     "source": "https://news.ycombinator.com/rss",
     "categories": "Other",
     "first_seen_iso": "2025-11-23T21:48:20.977533Z"
+  },
+  {
+    "id": "b7a9e0b2ee51419ff4e6014bb07f9d713e596c30",
+    "title": "I Learned the Pythagorean Theorem",
+    "description": "Comments",
+    "link": "https://danq.me/2025/11/13/pythagorean-theorem/",
+    "published": "Thu, 13 Nov 2025 19:07:57 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-23T21:56:04.158040Z"
   }
 ]
