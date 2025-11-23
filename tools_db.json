@@ -838,5 +838,15 @@
     "source": "https://news.ycombinator.com/rss",
     "categories": "Other",
     "first_seen_iso": "2025-11-23T21:56:04.158040Z"
+  },
+  {
+    "id": "dccf798dd299b622f035496ef06b60d3095339f3",
+    "title": "Guideflow",
+    "description": "\n            The AI demo automation platform for SaaS\n          \n\nDiscussion\n            |\n            Link\n",
+    "link": "https://www.producthunt.com/products/guideflow",
+    "published": "2025-11-19T18:53:19-08:00",
+    "source": "https://www.producthunt.com/feed",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-23T22:05:00.307419Z"
   }
 ]
