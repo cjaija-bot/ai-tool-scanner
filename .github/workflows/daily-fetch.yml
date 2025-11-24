@@ -44,12 +44,11 @@ jobs:
       - name: Install & Build
         run: |
             npm install && npm run build
+                  - name: Copy tools database to dist
+        run: cp tools_db.json dist/
       - name: Deploy dist to gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
         with:
-              - name: Copy tools database to dist
-        run: |
-          cp tools_db.json dist/
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+              ub_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: gh-pages
