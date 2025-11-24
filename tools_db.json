@@ -1078,5 +1078,25 @@
     "source": "https://news.ycombinator.com/rss",
     "categories": "Other",
     "first_seen_iso": "2025-11-24T03:53:46.522800Z"
+  },
+  {
+    "id": "8f40d396aa80d8f53ffb92ddccd0a58dc6eb6c3f",
+    "title": "Flex AI: Your AI Personal Trainer",
+    "description": "\n            Introducing AI form feedback and AI-powered training coach.\n          \n\nDiscussion\n            |\n            Link\n",
+    "link": "https://www.producthunt.com/products/flex-ai-your-ai-personal-trainer",
+    "published": "2025-11-18T13:25:18-08:00",
+    "source": "https://www.producthunt.com/feed",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:59:02.044783Z"
+  },
+  {
+    "id": "a1d4d5276e39976463563e1b050171cf2b75fdef",
+    "title": "The Cloudflare outage was a good thing",
+    "description": "Comments",
+    "link": "https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048",
+    "published": "Mon, 24 Nov 2025 03:04:10 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:59:02.044783Z"
   }
 ]
