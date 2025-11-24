@@ -1048,5 +1048,35 @@
     "source": "https://news.ycombinator.com/rss",
     "categories": "Other",
     "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "05463a538c36d7b93f3e3effbaf76adc74f1e5e3",
+    "title": "Magic Mango",
+    "description": "\n            Your marketing team's ad-library for tracking and organizing\n          \n\nDiscussion\n            |\n            Link\n",
+    "link": "https://www.producthunt.com/products/magic-mango",
+    "published": "2025-11-19T08:02:43-08:00",
+    "source": "https://www.producthunt.com/feed",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:53:46.522800Z"
+  },
+  {
+    "id": "fe3e955ea1c3d334b2b33107067edaefb67f5235",
+    "title": "My Life Is a Lie: How a Broken Benchmark Broke America",
+    "description": "Comments",
+    "link": "https://www.yesigiveafig.com/p/part-1-my-life-is-a-lie",
+    "published": "Mon, 24 Nov 2025 02:05:01 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:53:46.522800Z"
+  },
+  {
+    "id": "eade77a554babef247b840190a14eb217ff85218",
+    "title": "Band of Holes",
+    "description": "Comments",
+    "link": "https://en.wikipedia.org/wiki/Band_of_Holes",
+    "published": "Wed, 19 Nov 2025 07:08:49 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:53:46.522800Z"
   }
 ]
