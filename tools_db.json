@@ -1098,5 +1098,25 @@
     "source": "https://news.ycombinator.com/rss",
     "categories": "Other",
     "first_seen_iso": "2025-11-24T03:59:02.044783Z"
+  },
+  {
+    "id": "4368f9e3fb7be7f55ab4b68f303ff4462ed83b3a",
+    "title": "Particle Life",
+    "description": "Comments",
+    "link": "https://sandbox-science.com/particle-life",
+    "published": "Sun, 23 Nov 2025 21:54:32 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T04:10:58.005630Z"
+  },
+  {
+    "id": "91d899c25496543327ad99c5a08cb3a597351ddd",
+    "title": "A Unified Theory of Ego, Empathy, and Humility at Work",
+    "description": "Comments",
+    "link": "https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/",
+    "published": "Mon, 24 Nov 2025 02:01:02 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Productivity App",
+    "first_seen_iso": "2025-11-24T04:10:58.005630Z"
   }
 ]
