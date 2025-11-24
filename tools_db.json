@@ -868,5 +868,185 @@
     "source": "https://www.producthunt.com/feed",
     "categories": "Model / ML Framework;Productivity App",
     "first_seen_iso": "2025-11-23T22:11:36.800820Z"
+  },
+  {
+    "id": "b847bca2c1fcd8d9d8701bf6832cff7572d99431",
+    "title": "WordWise for iOS",
+    "description": "\n            Your personal word journal app, with smart flashcards\n          \n\nDiscussion\n            |\n            Link\n",
+    "link": "https://www.producthunt.com/products/wordwise",
+    "published": "2025-11-03T14:34:16-08:00",
+    "source": "https://www.producthunt.com/feed",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "6fb3092f30ceebac8b4fe250f0a4304943eb9ea2",
+    "title": "We stopped roadmap work for a week and fixed 189 bugs",
+    "description": "Comments",
+    "link": "https://lalitm.com/fixits-are-good-for-the-soul/",
+    "published": "Mon, 24 Nov 2025 02:36:54 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Productivity App",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "4f9aa2ee98ab180dfb46474fe9ae04057a471ffd",
+    "title": "RuBee",
+    "description": "Comments",
+    "link": "https://computer.rip/2025-11-22-RuBee.html",
+    "published": "Mon, 24 Nov 2025 03:08:10 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "2488705db92c0acd7f10d7314335462f40c1a227",
+    "title": "Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4",
+    "description": "Comments",
+    "link": "https://technotes.seastrom.com/2025/11/23/passing-the-torch.html",
+    "published": "Mon, 24 Nov 2025 02:16:42 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "3bd35c793b609fbdd697b44b46c3b7dc4976f704",
+    "title": "New magnetic component discovered in the Faraday effect after nearly 2 centuries",
+    "description": "Comments",
+    "link": "https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html",
+    "published": "Wed, 19 Nov 2025 20:53:42 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "5b7cb652f780089f17c8516ee20c5e5cdf8d8740",
+    "title": "µcad: New open source programming language that can generate 2D sketches and 3D",
+    "description": "Comments",
+    "link": "https://microcad.xyz/",
+    "published": "Sun, 23 Nov 2025 20:51:22 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "e54cebe975430cf8fcd3553cb1a20da2e59d871c",
+    "title": "B-Trees: Why Every Database Uses Them",
+    "description": "Comments",
+    "link": "https://mehmetgoekce.substack.com/p/b-trees-why-every-database-uses-them",
+    "published": "Mon, 24 Nov 2025 02:35:17 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Data / Analytics",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "e6f6335b4e830e5933f3e4b67ad131b8495c5bc8",
+    "title": "Ask HN: Hearing aid wearers, what's hot?",
+    "description": "Comments",
+    "link": "https://news.ycombinator.com/item?id=46029699",
+    "published": "Mon, 24 Nov 2025 02:25:39 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "0e4b16fb129d1f86ecebcedc2e3b478b76f46915",
+    "title": "Show HN: I wrote a minimal memory allocator in C",
+    "description": "Comments",
+    "link": "https://github.com/t9nzin/memory",
+    "published": "Sun, 23 Nov 2025 22:25:36 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "ba7d6ab8315c13f255f4addc4b839f203ef16853",
+    "title": "A desktop app for isolated, parallel agentic development",
+    "description": "Comments",
+    "link": "https://github.com/coder/mux",
+    "published": "Sun, 23 Nov 2025 22:24:23 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Developer Tool",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "ca007e9070b8779acb6f57854004f1e018b4f14e",
+    "title": "The Rust Performance Book",
+    "description": "Comments",
+    "link": "https://nnethercote.github.io/perf-book/",
+    "published": "Wed, 19 Nov 2025 09:08:10 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "15f700c838bd33d038cc2e1b5f3cc1f82e330e46",
+    "title": "Liva AI (YC S25) Is Hiring",
+    "description": "Comments",
+    "link": "https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern",
+    "published": "Sun, 23 Nov 2025 22:36:07 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "0c30fac45cac6c5a2a37ef70134b643e45d57120",
+    "title": "Iowa City made its buses free. Traffic cleared, and so did the air",
+    "description": "Comments",
+    "link": "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html",
+    "published": "Sun, 23 Nov 2025 22:06:44 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "2bbe7a8bc04e9a36a88f6e8ecb45b321fd049a5e",
+    "title": "Particle Life – Sandbox Science",
+    "description": "Comments",
+    "link": "https://sandbox-science.com/particle-life",
+    "published": "Sun, 23 Nov 2025 21:54:32 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "39390d496f14dc3502bc70993b7bb0140900668d",
+    "title": "Sunsetting Supermaven",
+    "description": "Comments",
+    "link": "https://supermaven.com/blog/sunsetting-supermaven",
+    "published": "Sun, 23 Nov 2025 22:33:34 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "01664dcd49acaf2fcb6821f43d0996cc9ae42f06",
+    "title": "An Economy of AI Agents",
+    "description": "Comments",
+    "link": "https://arxiv.org/abs/2509.01063",
+    "published": "Sun, 23 Nov 2025 02:08:00 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "14eaab88378930ad576852bcf00f814491daf350",
+    "title": "A ncurses-based command line torrent client for high performance",
+    "description": "Comments",
+    "link": "https://github.com/rakshasa/rtorrent",
+    "published": "Mon, 24 Nov 2025 01:30:51 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Developer Tool",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
+  },
+  {
+    "id": "57fca9d40ee97d36a28256137c64b7c76a67d9d4",
+    "title": "'Invisible' microplastics spread in skies as global pollutant",
+    "description": "Comments",
+    "link": "https://www.asahi.com/ajw/articles/16137995",
+    "published": "Mon, 24 Nov 2025 00:18:21 +0000",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": "Other",
+    "first_seen_iso": "2025-11-24T03:43:05.269830Z"
   }
 ]
